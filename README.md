@@ -16,11 +16,13 @@ Plataforma:
 
 
 A discutir:
-- Possível patrocínio no futuro
-- Tutorias
+- Edição dos vídeos, criação de uma intro e uma logo;
+- Possível patrocínio no futuro;
+- Tutorias;
 
 Sugestões para temas:
 
+- Novo iPhone SE e a Keynote da Apple;
 - Mercado de trabalho no brasil e no exterior;
 - Apple Watch - Watchkit 2.0
 - Como me sair bem em uma entrevista para desenvolvedor iOS;
@@ -29,6 +31,7 @@ Sugestões para temas:
 - Usabilidade: Human Interface Guidelines e os novos aplicativos;
 - Design Patterns para desenvolvimento mobile;
 - IOT (Internet of Things);
+- O que podemos esperar no iOS 10;
 - Quero ser desenvolvedor mobile: por onde começar / Sou N00b;
 - Swift x Objective-C;
 - Interface gráfica com Storyboards, Nibs ou no código;
