@@ -6,20 +6,26 @@
 
 ######Formato:
 
-Haverá uma pauta semanal, definida com alguns dias de antecedência. Vai ser um bate-papo livre, em formato de mesa redonda. Um dos membros terá uma lista com alguns tópicos e perguntas e funcionará como um âncora, conduzindo o debate. 
+
+Haverá uma pauta ~~semanal~~ **DEFINIR FREQUÊNCIA**, definida com alguns dias de antecedência. Vai ser um bate-papo livre, em formato de mesa redonda. Um dos membros terá uma lista com alguns tópicos e perguntas e funcionará como um âncora, conduzindo o debate. 
+
 
 ######Duração:
 
 30 minutos (a combinar)
 
+
 ######Plataforma:
 - Youtube?
+
 
 
 ######A discutir:
 - Edição dos vídeos, criação de uma intro e uma logo;
 - Possível patrocínio no futuro;
 - Tutorias;
+
+
 
 ###Sugestões de temas:
 
@@ -45,6 +51,8 @@ Gerenciando dependências - Cocoapods | Segurança
 Networking | SpriteKit
 CoreBluetooth | CoreData
 Monetização - como ganhar dinheiro com o seu app | 
+
+
 
 ######Sugestões de nome:
 - Let iOS
