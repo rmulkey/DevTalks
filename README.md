@@ -11,20 +11,18 @@ Haverá uma pauta ~~semanal~~ **DEFINIR FREQUÊNCIA**, definida com alguns dias 
 
 
 ######Duração:
-
-30 minutos (a combinar)
-
+(a combinar)
 
 ######Plataforma:
+- Apple Podcast
+- Áudio e Video ou apenas áudio?
 - Youtube?
-
-
 
 ######A discutir:
 - Edição dos vídeos, criação de uma intro e uma logo;
+- Site/blog
 - Possível patrocínio no futuro;
 - Tutorias;
-
 
 
 ###Sugestões de temas:
